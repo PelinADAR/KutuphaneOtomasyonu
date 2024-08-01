@@ -1,0 +1,4 @@
+C:\Users\hakan\Desktop\KutuphaneOtomasyon\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\CSProjeDemo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hakan\Desktop\KutuphaneOtomasyon\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\CSProjeDemo1.AssemblyInfoInputs.cache
+C:\Users\hakan\Desktop\KutuphaneOtomasyon\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\CSProjeDemo1.AssemblyInfo.cs
+C:\Users\hakan\Desktop\KutuphaneOtomasyon\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\CSProjeDemo1.csproj.CoreCompileInputs.cache
